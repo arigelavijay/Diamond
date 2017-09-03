@@ -1,0 +1,465 @@
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\NetStock.dll.config
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\NetStock.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\NetStock.pdb
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Antlr3.Runtime.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\EntityFramework.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\EntityFramework.SqlServer.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.AspNet.Identity.Core.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.Cookies.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.Facebook.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.Google.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.OAuth.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.Twitter.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Web.Infrastructure.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\MvcReportViewer.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\NetStock.BusinessFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\NetStock.Contract.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Newtonsoft.Json.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Owin.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.Helpers.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.Mvc.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.Optimization.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.Razor.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.WebPages.Deployment.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.WebPages.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.WebPages.Razor.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\WebGrease.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\NetStock.DataFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Practices.ServiceLocation.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Practices.Unity.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.SqlServer.Types.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Practices.Unity.Interception.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\NetStock.BusinessFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\NetStock.Contract.pdb
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.Helpers.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.Mvc.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.Optimization.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.Razor.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.WebPages.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.WebPages.Deployment.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\System.Web.WebPages.Razor.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Antlr3.Runtime.pdb
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Newtonsoft.Json.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\EntityFramework.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\EntityFramework.SqlServer.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.AspNet.Identity.Core.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.Facebook.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.Cookies.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.OAuth.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.Google.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.Twitter.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\bin\NetStock.DataFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\obj\Debug\NetStock.csprojResolveAssemblyReference.cache
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\obj\Debug\NetStock.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock\obj\Debug\NetStock.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\NetStock.dll.config
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\NetStock.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\NetStock.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\Antlr3.Runtime.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\Microsoft.Web.Infrastructure.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\MvcReportViewer.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\NetStock.BusinessFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\NetStock.Contract.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\Newtonsoft.Json.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.Helpers.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.Mvc.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.Optimization.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.Razor.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.WebPages.Deployment.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.WebPages.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.WebPages.Razor.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\WebGrease.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\NetStock.DataFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\Microsoft.Practices.ServiceLocation.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\Microsoft.Practices.Unity.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\Microsoft.SqlServer.Types.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\Microsoft.Practices.Unity.Interception.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\NetStock.BusinessFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\NetStock.Contract.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\Newtonsoft.Json.xml
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.Helpers.xml
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.Mvc.xml
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.Optimization.xml
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.Razor.xml
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.WebPages.xml
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.WebPages.Deployment.xml
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\System.Web.WebPages.Razor.xml
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\Antlr3.Runtime.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\bin\NetStock.DataFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\obj\Debug\NetStock.csprojResolveAssemblyReference.cache
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\obj\Debug\NetStock.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\obj\Debug\NetStock.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\NetStock.dll.config
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\NetStock.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\NetStock.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Antlr3.Runtime.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Microsoft.Web.Infrastructure.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\MvcReportViewer.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\NetStock.BusinessFactory.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\NetStock.Contract.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Newtonsoft.Json.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.Helpers.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.Mvc.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.Optimization.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.Razor.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.WebPages.Deployment.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.WebPages.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.WebPages.Razor.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\WebGrease.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\NetStock.DataFactory.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Microsoft.Practices.Unity.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Microsoft.SqlServer.Types.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\NetStock.BusinessFactory.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\NetStock.Contract.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Newtonsoft.Json.xml
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.Helpers.xml
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.Mvc.xml
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.Optimization.xml
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.Razor.xml
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.WebPages.xml
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.WebPages.Deployment.xml
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\System.Web.WebPages.Razor.xml
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Antlr3.Runtime.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\NetStock.DataFactory.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\Diamond 2016-07-22(sharma copy)\NetStock\obj\Debug\NetStock.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\obj\Debug\NetStock.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock\obj\Debug\NetStock.csprojResolveAssemblyReference.cache
+D:\Project\Diamond\NetStock\obj\Debug\NetStock.csprojResolveAssemblyReference.cache
+D:\Project\Diamond\NetStock\bin\NetStock.dll.config
+D:\Project\Diamond\NetStock\bin\NetStock.dll
+D:\Project\Diamond\NetStock\bin\NetStock.pdb
+D:\Project\Diamond\NetStock\bin\Antlr3.Runtime.dll
+D:\Project\Diamond\NetStock\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\Diamond\NetStock\bin\MvcReportViewer.dll
+D:\Project\Diamond\NetStock\bin\NetStock.BusinessFactory.dll
+D:\Project\Diamond\NetStock\bin\NetStock.Contract.dll
+D:\Project\Diamond\NetStock\bin\Newtonsoft.Json.dll
+D:\Project\Diamond\NetStock\bin\System.Web.Helpers.dll
+D:\Project\Diamond\NetStock\bin\System.Web.Mvc.dll
+D:\Project\Diamond\NetStock\bin\System.Web.Optimization.dll
+D:\Project\Diamond\NetStock\bin\System.Web.Razor.dll
+D:\Project\Diamond\NetStock\bin\System.Web.WebPages.Deployment.dll
+D:\Project\Diamond\NetStock\bin\System.Web.WebPages.dll
+D:\Project\Diamond\NetStock\bin\System.Web.WebPages.Razor.dll
+D:\Project\Diamond\NetStock\bin\WebGrease.dll
+D:\Project\Diamond\NetStock\bin\NetStock.DataFactory.dll
+D:\Project\Diamond\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Project\Diamond\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Project\Diamond\NetStock\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Project\Diamond\NetStock\bin\Microsoft.Practices.Unity.dll
+D:\Project\Diamond\NetStock\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Project\Diamond\NetStock\bin\NetStock.BusinessFactory.pdb
+D:\Project\Diamond\NetStock\bin\NetStock.Contract.pdb
+D:\Project\Diamond\NetStock\bin\Newtonsoft.Json.xml
+D:\Project\Diamond\NetStock\bin\System.Web.Helpers.xml
+D:\Project\Diamond\NetStock\bin\System.Web.Mvc.xml
+D:\Project\Diamond\NetStock\bin\System.Web.Optimization.xml
+D:\Project\Diamond\NetStock\bin\System.Web.Razor.xml
+D:\Project\Diamond\NetStock\bin\System.Web.WebPages.xml
+D:\Project\Diamond\NetStock\bin\System.Web.WebPages.Deployment.xml
+D:\Project\Diamond\NetStock\bin\System.Web.WebPages.Razor.xml
+D:\Project\Diamond\NetStock\bin\Antlr3.Runtime.pdb
+D:\Project\Diamond\NetStock\bin\NetStock.DataFactory.pdb
+D:\Project\Diamond\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Project\Diamond\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Project\Diamond\NetStock\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Project\Diamond\NetStock\bin\Microsoft.Practices.Unity.pdb
+D:\Project\Diamond\NetStock\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\Project\Diamond\NetStock\obj\Debug\NetStock.dll
+D:\Project\Diamond\NetStock\obj\Debug\NetStock.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\NetStock.dll.config
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\NetStock.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\NetStock.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Antlr3.Runtime.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Microsoft.Web.Infrastructure.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\MvcReportViewer.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\NetStock.Contract.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Newtonsoft.Json.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.Helpers.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.Mvc.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.Optimization.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.Razor.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.Deployment.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.Razor.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\WebGrease.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\NetStock.DataFactory.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.Unity.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Microsoft.SqlServer.Types.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\NetStock.Contract.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Newtonsoft.Json.xml
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.Helpers.xml
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.Mvc.xml
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.Optimization.xml
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.Razor.xml
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.xml
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.Deployment.xml
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.Razor.xml
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Antlr3.Runtime.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.Unity.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.Unity.Interception.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock\obj\Debug\NetStock.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(2016-11-01)\NetStock\obj\Debug\NetStock.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\obj\Debug\NetStock.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\NetStock.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\NetStock.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\Antlr3.Runtime.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\Microsoft.Web.Infrastructure.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\MvcReportViewer.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\NetStock.BusinessFactory.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\NetStock.Contract.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\Newtonsoft.Json.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.Helpers.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.Mvc.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.Optimization.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.Razor.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.Deployment.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.Razor.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\WebGrease.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\NetStock.DataFactory.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.ServiceLocation.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.Unity.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.Unity.Interception.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\NetStock.BusinessFactory.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\NetStock.Contract.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\Newtonsoft.Json.xml
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.Helpers.xml
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.Mvc.xml
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.Optimization.xml
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.Razor.xml
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.xml
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.Deployment.xml
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\System.Web.WebPages.Razor.xml
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\Antlr3.Runtime.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\NetStock.DataFactory.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\bin\Microsoft.Practices.Unity.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\obj\Debug\NetStock.csprojResolveAssemblyReference.cache
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\obj\Debug\NetStock.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\obj\Debug\NetStock.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\NetStock.dll.config
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\NetStock.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\NetStock.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Antlr3.Runtime.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Microsoft.Web.Infrastructure.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\MvcReportViewer.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\NetStock.Contract.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Newtonsoft.Json.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.Helpers.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.Mvc.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.Optimization.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.Razor.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.WebPages.Deployment.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.WebPages.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.WebPages.Razor.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\WebGrease.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\NetStock.DataFactory.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Microsoft.Practices.Unity.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Microsoft.SqlServer.Types.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\NetStock.Contract.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Newtonsoft.Json.xml
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.Helpers.xml
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.Mvc.xml
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.Optimization.xml
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.Razor.xml
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.WebPages.xml
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.WebPages.Deployment.xml
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\System.Web.WebPages.Razor.xml
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Antlr3.Runtime.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock\bin\Microsoft.Practices.Unity.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock\obj\Debug\NetStock.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(12-29-2016)\NetStock\obj\Debug\NetStock.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\obj\Debug\NetStock.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\NetStock.dll.config
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\NetStock.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\NetStock.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Antlr3.Runtime.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Microsoft.Web.Infrastructure.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\MvcReportViewer.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\NetStock.Contract.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Newtonsoft.Json.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.Helpers.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.Mvc.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.Optimization.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.Razor.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.WebPages.Deployment.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.WebPages.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.WebPages.Razor.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\WebGrease.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\NetStock.DataFactory.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Microsoft.Practices.Unity.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Microsoft.SqlServer.Types.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\NetStock.Contract.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Newtonsoft.Json.xml
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.Helpers.xml
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.Mvc.xml
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.Optimization.xml
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.Razor.xml
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.WebPages.xml
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.WebPages.Deployment.xml
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\System.Web.WebPages.Razor.xml
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Antlr3.Runtime.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock\bin\Microsoft.Practices.Unity.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock\obj\Debug\NetStock.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(01-01-2017)\NetStock\obj\Debug\NetStock.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\obj\Debug\NetStock.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\NetStock.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\NetStock.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\Antlr3.Runtime.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\Microsoft.Web.Infrastructure.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\MvcReportViewer.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\NetStock.BusinessFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\NetStock.Contract.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\Newtonsoft.Json.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.Helpers.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.Mvc.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.Optimization.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.Razor.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.WebPages.Deployment.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.WebPages.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.WebPages.Razor.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\WebGrease.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\NetStock.DataFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\Microsoft.Practices.ServiceLocation.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\Microsoft.Practices.Unity.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\Microsoft.Practices.Unity.Interception.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\NetStock.BusinessFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\NetStock.Contract.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\Newtonsoft.Json.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.Helpers.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.Mvc.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.Optimization.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.Razor.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.WebPages.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.WebPages.Deployment.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\System.Web.WebPages.Razor.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\Antlr3.Runtime.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\bin\NetStock.DataFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\obj\Debug\NetStock.csprojResolveAssemblyReference.cache
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\obj\Debug\NetStock.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\obj\Debug\NetStock.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\obj\Debug\NetStock.csprojResolveAssemblyReference.cache
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\obj\Debug\NetStock.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Antlr3.Runtime.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Web.Infrastructure.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\MvcReportViewer.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.BusinessFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.Contract.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Newtonsoft.Json.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Helpers.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Mvc.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Optimization.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Razor.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.Deployment.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.Razor.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\WebGrease.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.DataFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Practices.ServiceLocation.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Practices.Unity.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Practices.Unity.Interception.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.BusinessFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.Contract.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Newtonsoft.Json.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Helpers.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Mvc.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Optimization.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Razor.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.Deployment.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.Razor.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Antlr3.Runtime.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.DataFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock\obj\Debug\NetStock.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.dll.config
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Antlr3.Runtime.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Web.Infrastructure.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\MvcReportViewer.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.Contract.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Newtonsoft.Json.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Helpers.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Mvc.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Optimization.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Razor.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.Deployment.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.Razor.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\WebGrease.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.DataFactory.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Practices.Unity.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.SqlServer.Types.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.Contract.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Newtonsoft.Json.xml
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Helpers.xml
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Mvc.xml
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Optimization.xml
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.Razor.xml
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.xml
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.Deployment.xml
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\System.Web.WebPages.Razor.xml
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\Antlr3.Runtime.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\bin\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\obj\Debug\NetStock.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\obj\Debug\NetStock.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\obj\Debug\NetStock.pdb

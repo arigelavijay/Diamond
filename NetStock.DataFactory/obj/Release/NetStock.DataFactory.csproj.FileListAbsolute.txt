@@ -1,0 +1,165 @@
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.dll
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.pdb
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\MVCProjects\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+E:\MVCProjects\NetStock\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+E:\MVCProjects\NetStock\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+E:\MVCProjects\NetStock\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb
+F:\Project\NetStock\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+F:\Project\NetStock\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+F:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Project\NetStock\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+F:\Project\NetStock\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+F:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.ServiceLocation.dll
+F:\Project\NetStock\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+F:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+F:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.ServiceLocation.xml
+F:\Project\NetStock\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+F:\Project\NetStock\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+F:\Project\NetStock\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.dll
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.pdb
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Project\NetStock\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+D:\Project\NetStock\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+D:\Project\NetStock\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+D:\Project\NetStock\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\bin\Release\Microsoft.SqlServer.Types.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\bin\Release\Microsoft.SqlServer.Types.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.dll
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.pdb
+D:\Project\Diamond\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+D:\Project\Diamond\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+D:\Project\Diamond\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+D:\Project\Diamond\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\Microsoft.SqlServer.Types.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.Interception.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.DataFactory\bin\Release\Microsoft.SqlServer.Types.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(12-29-2016)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.DataFactory\bin\Release\Microsoft.SqlServer.Types.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(01-01-2017)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\bin\Release\Microsoft.Practices.Unity.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.DataFactory\bin\Release\NetStock.DataFactory.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.DataFactory\bin\Release\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.DataFactory\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.DataFactory\bin\Release\MvcReportViewer.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.DataFactory\bin\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.DataFactory\bin\Release\Microsoft.SqlServer.Types.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.DataFactory\bin\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.DataFactory\obj\Release\NetStock.DataFactory.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.DataFactory\obj\Release\NetStock.DataFactory.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.DataFactory\obj\Release\NetStock.DataFactory.pdb

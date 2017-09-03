@@ -1,0 +1,86 @@
+E:\MVCProjects\NetStock\NetStock.Contract\bin\Release\NetStock.Contract.dll
+E:\MVCProjects\NetStock\NetStock.Contract\bin\Release\NetStock.Contract.pdb
+E:\MVCProjects\NetStock\NetStock.Contract\obj\Release\NetStock.Contract.dll
+E:\MVCProjects\NetStock\NetStock.Contract\obj\Release\NetStock.Contract.pdb
+E:\MVCProjects\NetStock\NetStock.Contract\obj\Release\NetStock.Contract.csprojResolveAssemblyReference.cache
+F:\Project\NetStock\NetStock.Contract\bin\Release\NetStock.Contract.dll
+F:\Project\NetStock\NetStock.Contract\bin\Release\NetStock.Contract.pdb
+F:\Project\NetStock\NetStock.Contract\obj\Release\NetStock.Contract.dll
+F:\Project\NetStock\NetStock.Contract\obj\Release\NetStock.Contract.pdb
+D:\Project\NetStock\NetStock.Contract\bin\Release\NetStock.Contract.dll
+D:\Project\NetStock\NetStock.Contract\bin\Release\NetStock.Contract.pdb
+D:\Project\NetStock\NetStock.Contract\obj\Release\NetStock.Contract.dll
+D:\Project\NetStock\NetStock.Contract\obj\Release\NetStock.Contract.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.Contract\bin\Release\NetStock.Contract.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.Contract\bin\Release\NetStock.Contract.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.Contract\bin\Release\System.Web.Mvc.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.Contract\bin\Release\System.Web.Razor.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.Contract\bin\Release\System.Web.WebPages.Razor.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.Contract\bin\Release\System.Web.WebPages.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.Contract\bin\Release\Microsoft.Web.Infrastructure.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.Contract\bin\Release\System.Web.WebPages.Deployment.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.Contract\obj\Release\NetStock.Contract.csprojResolveAssemblyReference.cache
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.Contract\obj\Release\NetStock.Contract.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.Contract\obj\Release\NetStock.Contract.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.Contract\bin\Release\NetStock.Contract.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.Contract\bin\Release\NetStock.Contract.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.Contract\bin\Release\System.Web.Mvc.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.Contract\bin\Release\System.Web.Razor.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.Contract\bin\Release\System.Web.WebPages.Razor.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.Contract\bin\Release\System.Web.WebPages.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.Contract\bin\Release\Microsoft.Web.Infrastructure.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.Contract\bin\Release\System.Web.WebPages.Deployment.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.Contract\obj\Release\NetStock.Contract.csprojResolveAssemblyReference.cache
+F:\Diamond 2016-07-22(sharma copy)\NetStock.Contract\obj\Release\NetStock.Contract.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.Contract\obj\Release\NetStock.Contract.pdb
+D:\Project\Diamond\NetStock.Contract\bin\Release\NetStock.Contract.dll
+D:\Project\Diamond\NetStock.Contract\bin\Release\NetStock.Contract.pdb
+D:\Project\Diamond\NetStock.Contract\obj\Release\NetStock.Contract.csprojResolveAssemblyReference.cache
+D:\Project\Diamond\NetStock.Contract\obj\Release\NetStock.Contract.dll
+D:\Project\Diamond\NetStock.Contract\obj\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.Contract\bin\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.Contract\bin\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.Contract\bin\Release\System.Web.Mvc.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.Contract\bin\Release\System.Web.Razor.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.Contract\bin\Release\System.Web.WebPages.Razor.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.Contract\bin\Release\System.Web.WebPages.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.Contract\bin\Release\Microsoft.Web.Infrastructure.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.Contract\bin\Release\System.Web.WebPages.Deployment.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.Contract\obj\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.Contract\obj\Release\NetStock.Contract.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.Contract\bin\Release\NetStock.Contract.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.Contract\bin\Release\NetStock.Contract.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.Contract\obj\Release\NetStock.Contract.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.Contract\obj\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock.Contract\bin\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.Contract\bin\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock.Contract\bin\Release\System.Web.Mvc.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.Contract\bin\Release\System.Web.Razor.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.Contract\bin\Release\System.Web.WebPages.Razor.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.Contract\bin\Release\System.Web.WebPages.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.Contract\bin\Release\Microsoft.Web.Infrastructure.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.Contract\bin\Release\System.Web.WebPages.Deployment.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.Contract\obj\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.Contract\obj\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock.Contract\bin\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.Contract\bin\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock.Contract\bin\Release\System.Web.Mvc.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.Contract\bin\Release\System.Web.Razor.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.Contract\bin\Release\System.Web.WebPages.Razor.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.Contract\bin\Release\System.Web.WebPages.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.Contract\bin\Release\Microsoft.Web.Infrastructure.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.Contract\bin\Release\System.Web.WebPages.Deployment.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.Contract\obj\Release\NetStock.Contract.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(01-01-2017)\NetStock.Contract\obj\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.Contract\obj\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.Contract\bin\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.Contract\bin\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.Contract\bin\Release\System.Web.Mvc.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.Contract\bin\Release\System.Web.Razor.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.Contract\bin\Release\System.Web.WebPages.Razor.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.Contract\bin\Release\System.Web.WebPages.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.Contract\bin\Release\Microsoft.Web.Infrastructure.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.Contract\bin\Release\System.Web.WebPages.Deployment.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.Contract\obj\Release\NetStock.Contract.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.Contract\obj\Release\NetStock.Contract.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.Contract\obj\Release\NetStock.Contract.csprojResolveAssemblyReference.cache

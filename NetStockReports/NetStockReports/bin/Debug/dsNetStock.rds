@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="dsNetStock">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=SUDARSHAN\SUDARSHAN2012;Initial Catalog=NetStockDiamond</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>867cdd53-1be5-47a5-89fa-6fe9de201789</DataSourceID>
+</RptDataSource>

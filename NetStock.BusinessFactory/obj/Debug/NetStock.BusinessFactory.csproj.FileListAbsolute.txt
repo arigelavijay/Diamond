@@ -1,0 +1,273 @@
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+E:\MVCProjects\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.pdb
+G:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+G:\Project\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+G:\Project\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+G:\Project\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+F:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+F:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+F:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+F:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+F:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+F:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+F:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Project\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+F:\Project\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+F:\Project\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Project\NetStock\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Project\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+D:\Project\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+D:\Project\NetStock\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\System.Web.Mvc.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\System.Web.Razor.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Razor.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-08\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\System.Web.Mvc.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\System.Web.Razor.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Razor.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\System.Web.Mvc.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\System.Web.Razor.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Project\Diamond\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Project\Diamond\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+D:\Project\Diamond\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+D:\Project\Diamond\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\System.Web.Mvc.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\System.Web.Razor.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\System.Web.Mvc.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\System.Web.Razor.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.Contract.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\NetStock.DataFactory.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\obj\Debug\NetStock.BusinessFactory.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\System.Web.Mvc.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\System.Web.Razor.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock.BusinessFactory\bin\Debug\System.Web.WebPages.Deployment.dll

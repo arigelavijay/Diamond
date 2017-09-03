@@ -1,0 +1,52 @@
+E:\POSAccount Versions\Diamond 2016-06-23\Release\NetStock.dll.config
+E:\POSAccount Versions\Diamond 2016-06-23\Release\NetStock.dll
+E:\POSAccount Versions\Diamond 2016-06-23\Release\NetStock.pdb
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\obj\Release\NetStock.csprojResolveAssemblyReference.cache
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\obj\Release\NetStock.dll
+E:\POSAccount Versions\Diamond 2016-06-23\NetStock\obj\Release\NetStock.pdb
+F:\Diamond 2016-07-22(sharma copy)\Release\NetStock.dll.config
+F:\Diamond 2016-07-22(sharma copy)\Release\NetStock.dll
+F:\Diamond 2016-07-22(sharma copy)\Release\NetStock.pdb
+F:\Diamond 2016-07-22(sharma copy)\NetStock\obj\Release\NetStock.csprojResolveAssemblyReference.cache
+F:\Diamond 2016-07-22(sharma copy)\NetStock\obj\Release\NetStock.dll
+F:\Diamond 2016-07-22(sharma copy)\NetStock\obj\Release\NetStock.pdb
+D:\Project\Diamond\Release\NetStock.dll.config
+D:\Project\Diamond\Release\NetStock.dll
+D:\Project\Diamond\Release\NetStock.pdb
+D:\Project\Diamond\NetStock\obj\Release\NetStock.csprojResolveAssemblyReference.cache
+D:\Project\Diamond\NetStock\obj\Release\NetStock.dll
+D:\Project\Diamond\NetStock\obj\Release\NetStock.pdb
+F:\Diamond\Diamond(2016-11-01)\Release\NetStock.dll.config
+F:\Diamond\Diamond(2016-11-01)\Release\NetStock.dll
+F:\Diamond\Diamond(2016-11-01)\Release\NetStock.pdb
+F:\Diamond\Diamond(2016-11-01)\NetStock\obj\Release\NetStock.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(2016-11-01)\NetStock\obj\Release\NetStock.dll
+F:\Diamond\Diamond(2016-11-01)\NetStock\obj\Release\NetStock.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\Release\NetStock.dll
+F:\PrasadSKD\Diamond(2016-11-01)\Release\NetStock.pdb
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\obj\Release\NetStock.csprojResolveAssemblyReference.cache
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\obj\Release\NetStock.dll
+F:\PrasadSKD\Diamond(2016-11-01)\NetStock\obj\Release\NetStock.pdb
+F:\Diamond\Diamond(12-29-2016)\Release\NetStock.dll.config
+F:\Diamond\Diamond(12-29-2016)\Release\NetStock.dll
+F:\Diamond\Diamond(12-29-2016)\Release\NetStock.pdb
+F:\Diamond\Diamond(12-29-2016)\NetStock\obj\Release\NetStock.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(12-29-2016)\NetStock\obj\Release\NetStock.dll
+F:\Diamond\Diamond(12-29-2016)\NetStock\obj\Release\NetStock.pdb
+F:\Diamond\Diamond(01-01-2017)\Release\NetStock.dll.config
+F:\Diamond\Diamond(01-01-2017)\Release\NetStock.dll
+F:\Diamond\Diamond(01-01-2017)\Release\NetStock.pdb
+F:\Diamond\Diamond(01-01-2017)\NetStock\obj\Release\NetStock.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(01-01-2017)\NetStock\obj\Release\NetStock.dll
+F:\Diamond\Diamond(01-01-2017)\NetStock\obj\Release\NetStock.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\Release\NetStock.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\Release\NetStock.pdb
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\obj\Release\NetStock.csprojResolveAssemblyReference.cache
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\obj\Release\NetStock.dll
+F:\PrasadSKD\Original\Diamond(01-01-2017) Original\NetStock\obj\Release\NetStock.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\Release\NetStock.dll.config
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\Release\NetStock.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\Release\NetStock.pdb
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\obj\Release\NetStock.csprojResolveAssemblyReference.cache
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\obj\Release\NetStock.dll
+F:\Diamond\Diamond(08-01-2017) Original\Diamond(01-01-2017) Original - Copy\NetStock\obj\Release\NetStock.pdb
